@@ -1,13 +1,18 @@
-# package_name
+# Projeto Pypi
 
 Description. 
 The package package_name is used to:
+
 	- 
-	-
+	Projeto simples de repetição
+
+
+
+OBS.: Devido ao curto prazo para finalização do bootcamp, realizarei posteriormente uma atualização (0.0.2) para finalizar todos os processos do conteúdo.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_projetopy
 
 ```bash
 pip install package_name
@@ -16,12 +21,11 @@ pip install package_name
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+from package_projetopy import exemplo_01.my_function()
 ```
 
 ## Author
-My_name
+Felipe Amorim
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
